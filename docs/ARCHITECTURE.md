@@ -1,7 +1,7 @@
 # 🛒 OmniChannel Enterprise E-Commerce API - Engineering Blueprint
 
 ## 1. Executive Summary
-This project is an enterprise-grade, highly scalable Distributed E-Commerce Backend API built using **.NET 9 / .NET 8**. The core architecture demonstrates production-ready software engineering, strictly adhering to **SOLID Principles** and implementing advanced **Design Patterns**. Designed as a Multi-Branch Distributed System, it natively supports hybrid online/offline operations, multi-tiered corporate governance (Super Admin, Branch Admins, General Accountants), a global shipping/logistics routing engine, dynamic discounts, and a dual-layer cryptographic audit trail.
+This project is an enterprise-grade, highly scalable Distributed E-Commerce Backend API built using **.NET 10**. The core architecture demonstrates production-ready software engineering, strictly adhering to **SOLID Principles** and implementing advanced **Design Patterns**. Designed as a Multi-Branch Distributed System, it natively supports hybrid online/offline operations, multi-tiered corporate governance (Super Admin, Branch Admins, General Accountants), a global shipping/logistics routing engine, dynamic discounts, and a dual-layer cryptographic audit trail.
 
 ---
 
